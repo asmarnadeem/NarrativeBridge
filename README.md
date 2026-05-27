@@ -176,7 +176,6 @@ NarrativeBridge/
 | Video feature dim      | 512        | 512          |
 | d_model                | 512        | 512          |
 | Beam size (inference)  | 5          | 5            |
-| Pretrained init        | UniVL      | MSRVTT ckpt  |
 
 ---
 

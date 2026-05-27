@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.bin
+*.pt
+*.pth
+extracted/
+checkpoints/
+*.log
+*.out
+*.error
+.DS_Store

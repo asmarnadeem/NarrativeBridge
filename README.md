@@ -40,7 +40,7 @@ The cause and effect feature streams are each passed through a small transformer
 
 ```
 cause_features  → VisualEncoder_cause  ──┐
-                                          ├─ concat ─→ BERT Decoder → Caption
+                                          ├─ concat → BERT Decoder → Caption
 effect_features → VisualEncoder_effect ──┘
 ```
 
